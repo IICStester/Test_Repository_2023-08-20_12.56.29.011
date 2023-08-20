@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "6f8STFPkFDak2bzrBWCuyz",
+    "name" : "Project_To_Be_Renamed",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-08-20T19:57:39.133Z",
+  "objectRefs" : [ ]
+}
